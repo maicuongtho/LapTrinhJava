@@ -17,6 +17,24 @@ public class TongHaiSo {
 		System.out.print("Mời nhập số thứ hai: ");
 		num2= banPhim.nextDouble();
 		
+		// Tính toán
+		
+		sum = num1+num2;
+		
+		// XUất ra
+//		System.out.print("Tổng của " + num1 + "và " + num2 + "là" + sum);
+
+		
+//		System.out.print("Tổng của ");
+//		System.out.print(num1);
+//		System.out.print(" + ");
+//		System.out.print(num2);
+//		System.out.print(" = ");
+//		System.out.print(sum);
+		
+		
+		System.out.printf("Tổng của %.2f và %.2f là %.2f", num1 ,num2 ,sum);
+		
 
 	}
 

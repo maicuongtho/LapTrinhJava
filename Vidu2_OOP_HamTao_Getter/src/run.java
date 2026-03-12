@@ -1,7 +1,9 @@
+import java.util.ArrayList;
 
 public class run {
 
 	public static void main(String[] args) {
+		
 	      // Tạo mới đối tượng
 		  ChuNhat cn1 = new ChuNhat();
 		        // tạo đối tương cn1, dai=10, rong=5

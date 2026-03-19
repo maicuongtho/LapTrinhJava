@@ -31,7 +31,12 @@ public class NhanVien {
 	
 	@Override
 	public String toString() {
-		return "NhanVien [maNV=" + maNV + ", hoTen=" + hoTen + ", luongCoBan=" + luongCoBan + "]";
+		String chuoiXuat="";
+		chuoiXuat = chuoiXuat + "Mã NV: " + this.maNV;
+		chuoiXuat = chuoiXuat + "\nHọ tên: " + this.hoTen;
+		chuoiXuat = chuoiXuat + "\nLương cơ bản: " + this.luongCoBan;
+		return chuoiXuat;
+//		return "NhanVien [maNV=" + maNV + ", hoTen=" + hoTen + ", luongCoBan=" + luongCoBan + "]";
 	}
 	
 	public void hienThiThongTin() {

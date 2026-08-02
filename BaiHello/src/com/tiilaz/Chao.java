@@ -3,7 +3,9 @@ package com.tiilaz;
 public class Chao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		System.out.print("Chào CỦ CHI anh hùng!!");
 
 	}
 

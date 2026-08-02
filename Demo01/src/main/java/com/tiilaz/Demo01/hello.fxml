@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="239.0" prefWidth="507.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="65.0" layoutY="69.0" text="Số thứ nhất" />
+      <Button fx:id="btnTong" layoutX="221.0" layoutY="146.0" mnemonicParsing="false" text="Tính tổng" />
+      <Label layoutX="76.0" layoutY="103.0" text="Số thứ 2" />
+      <TextField fx:id="txtA" layoutX="173.0" layoutY="64.0" />
+      <TextField fx:id="txtB" layoutX="173.0" layoutY="98.0" />
+      <Label layoutX="95.0" layoutY="190.0" text="Kết quả" />
+      <Label fx:id="lblKetQua" layoutX="173.0" layoutY="190.0" opacity="0.7" prefHeight="21.0" prefWidth="186.0" style="-fx-background-color: red;" />
+   </children>
+</Pane>

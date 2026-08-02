@@ -1,0 +1,7 @@
+Định hướng phát triển
+Trong thời gian tới, tôi sẽ:
+
+Nâng cao kỹ năng OOP
+Học thêm Java nâng cao (Collections, Multithreading)
+Phát triển các project thực tế hơn
+Tiếp cận Spring Boot để làm Web Backend
